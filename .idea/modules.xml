@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springsecurityapp/springsecurityapp.iml" filepath="$PROJECT_DIR$/springsecurityapp/springsecurityapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsecuritybrowser/springsecuritybrowser.iml" filepath="$PROJECT_DIR$/springsecuritybrowser/springsecuritybrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsecuritycore/springsecuritycore.iml" filepath="$PROJECT_DIR$/springsecuritycore/springsecuritycore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsecuritydemo/springsecuritydemo.iml" filepath="$PROJECT_DIR$/springsecuritydemo/springsecuritydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsecuritymanager.iml" filepath="$PROJECT_DIR$/springsecuritymanager.iml" />
+    </modules>
+  </component>
+</project>
